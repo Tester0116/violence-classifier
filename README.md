@@ -68,16 +68,6 @@ Confusion matrix:
 └── README.md
 ```
 
----
-
-## Как обучить
-
-1. Открыть `training.ipynb` в [Kaggle](https://kaggle.com)
-2. Add Data → `real-life-violence-situations-dataset`
-3. Session options → Accelerator → GPU T4
-4. Run All (~2 часа)
-
----
 
 ## Как использовать модель
 
